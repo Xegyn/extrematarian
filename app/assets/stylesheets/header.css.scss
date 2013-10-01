@@ -1,3 +1,15 @@
 .navbar {
   margin-top: 20px;
+
+  a.brand {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+    #logo {
+      background-image: url('/assets/extrematarian_logo.png');
+      background-size: 200px 34px;
+      width: 200px;
+      height: 34px;
+    }
+  }
 }
